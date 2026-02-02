@@ -7,6 +7,7 @@
     "start": "next start"
   },
   "dependencies": {
+    "fast-xml-parser": "^4.3.6",
     "next": "latest",
     "react-dom": "18.2.0"
   }
